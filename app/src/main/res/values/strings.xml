@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week Challenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_amount">Amount...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Amount not saved because it is empty.</string>
+</resources>
